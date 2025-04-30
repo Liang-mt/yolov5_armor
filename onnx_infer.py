@@ -126,7 +126,7 @@ class yolov5_armor():
 
 
 if __name__ == "__main__":
-    video_path = "./video/3.mp4"  # 视频文件路径
+    video_path = "./video/1.mp4"  # 视频文件路径
     armor = yolov5_armor()
 
     # 打开视频文件
